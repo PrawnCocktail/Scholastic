@@ -1,5 +1,5 @@
 # Scholastic Ripper
-Download Scholastic.exe from the releases section and double click it. 
+Download Scholastic.exe from the releases section and double click it.  
 It will download everything it can from scholastic.com and place in folders according to grade.  
 
 It wont overwrite any previous downloads to reduce bandwidth usage.
